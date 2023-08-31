@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\ChatUser.h" />
+    <ClCompile Include="src\ChatRoom.cpp" />
+    <ClCompile Include="src\ChatSession.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ChatRoom.h" />
+    <ClInclude Include="src\ChatSession.h" />
+  </ItemGroup>
+</Project>
